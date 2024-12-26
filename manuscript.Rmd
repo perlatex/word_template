@@ -1,0 +1,82 @@
+---
+title: "The Moderating Effect of Organizational Culture on the Impact of Organizational Learning Capability on Innovation Performance"
+#subtitle: "using Structural Equation Modeling"
+author: "author"
+date: "`r Sys.Date()`"
+output: 
+  officedown::rdocx_document:
+    reference_docx: ./helper/custom-reference-doc.docx
+    number_sections: yes
+    df_print: kable
+bibliography: references.bib
+csl: ./helper/apa-6th-edition.csl
+link-citations: yes
+linkcolor: red
+urlcolor: red
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo         = FALSE,
+  message      = FALSE,
+  warning      = FALSE,
+  out.width    = "100%",
+  fig.asp      = 0.618, 
+  fig.show     = "hold",
+  fig.pos      = "H",
+  fig.align    = "center",
+  fig.showtext = TRUE,
+  dev          = "ragg_png",
+  dpi          = 600
+)
+options(digits = 3)
+```
+
+# Introduction
+
+
+
+
+# Literature Review and Hypothesis
+
+
+
+
+
+# Methodology
+## Sample and Procedure
+## Measures
+## Data Analysis Method
+
+
+
+
+
+# Empirical Results
+## Descriptive statistics
+## Common Method Variance
+## Reliability and Validity
+## Structural Path Model
+## Mediation Test 
+## Moderation Test (Optional)
+## Moderated Mediation (Optional)
+
+
+
+
+
+# Discussion
+## Implications
+## Limitations and Directions for Future Research
+
+
+
+
+
+
+
+
+
+\newpage
+# References {.unnumbered}
